@@ -1,34 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://albince.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://albince.com/" rel="alternate" type="text/html" /><updated>2020-09-15T01:02:57+05:30</updated><id>https://albince.com/</id><title type="html">Albince Paliakkara</title><subtitle>Tech, Life &amp; Everything</subtitle><entry><title type="html">Hello World</title><link href="https://albince.com/welcome" rel="alternate" type="text/html" title="Hello World" /><published>2020-09-08T15:30:00+05:30</published><updated>2020-09-08T15:30:00+05:30</updated><id>https://albince.com/welcome</id><content type="html" xml:base="https://albince.com/welcome">&lt;h2 id=&quot;hello-world&quot;&gt;Hello World&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-01T03:05:33+05:30</updated><id>http://localhost:4000/</id><title type="html">Albince Paliakkara</title><subtitle>Tech, Life &amp; Everything</subtitle><entry><title type="html">My Dad, Pandemic, Linux and Remote Classes</title><link href="http://localhost:4000/my-dad-pandemic-remote-classes-linux" rel="alternate" type="text/html" title="My Dad, Pandemic, Linux and Remote Classes" /><published>2020-12-01T01:00:00+05:30</published><updated>2020-12-01T01:00:00+05:30</updated><id>http://localhost:4000/my-dad-pandemic-remote-classes-linux</id><content type="html" xml:base="http://localhost:4000/my-dad-pandemic-remote-classes-linux">&lt;p&gt;TL;DR: My 59-year-old dad teaches online MBA classes, creates youtube videos from his Linux laptop with google meet, libreoffice, audacity and kdenlive&lt;/p&gt;
 
-&lt;h2 id=&quot;non-ramis-et-illi-saxum-nostri-moenia&quot;&gt;Non ramis et illi saxum nostri moenia&lt;/h2&gt;
+&lt;h2 id=&quot;covid-19-pushes-the-limits&quot;&gt;COVID-19 Pushes the limits&lt;/h2&gt;
 
-&lt;p&gt;Lorem markdownum in capi est quod sua: virtus pulsusque quoque! Madescit Ditis
-omnibus sibi subita et &lt;strong&gt;summaque semihomines faces&lt;/strong&gt; veneratur. &lt;a href=&quot;http://arma.org/&quot;&gt;Fuerat
-desilit&lt;/a&gt;? Deicit tu dolore est turbae perque eadem verbis,
-membra modo quae &lt;a href=&quot;http://queritur-relictum.com/&quot;&gt;illas&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The pandemic has changed many things for my Dad. He is 59 years old and teaches MBA students.
+With the COVID-19 restrictions, he was forced to do his teaching lessons online. Being the tech enthusiast in the house, I was called in as the consultant.&lt;/p&gt;
 
-&lt;p&gt;Lelex expetit properabat inque in &lt;strong&gt;simul&lt;/strong&gt; conexis, exempla Minos etiam obvius
-&lt;a href=&quot;http://www.sine.com/necmaesto&quot;&gt;fine&lt;/a&gt;. Troiana repugnat, relinquit simul,
-cursus, vacca, prolem vicit tenuissima, quas hic quoque tota gemitu.&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    socketFlatCookie = access;
-    var web_raw = partyDiskMaster(tablet_on + 39 / 71);
-    constant_botnet_peopleware.dma += twain.templatePortCrop.shellWordBandwidth(
-            esportsProgram) - -5;
-    if (video) {
-        viewVirtualization -= bloatware + video_dvd * primary_on;
-        analyst.mpegTftOverwrite(active_output_wordart, cloud);
-    }
-    extensionVram = ediCtr.rpcShellPodcast(barebones_inkjet_dns,
-            template_firewall_vram);
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;He had already been complaining that his Windows laptop is very slow and there may be a virus in it. So I did what every Linux evangelist do. Wiped his laptop, and made a clean Ubuntu install. With the chrome starting up and his old videos playing through VLC player he nodded OK, but was not happy.&lt;/p&gt;
 
-&lt;h2 id=&quot;sanguine-aeacides&quot;&gt;Sanguine Aeacides&lt;/h2&gt;
+&lt;p&gt;With another couple of clicks, a Zoom meeting was running and he could send the join invite to my brother for checking voice, video, and screen sharing capabilities. With a couple of “Hello, testing” exchanges he was happy and started his remote classes the next day.&lt;/p&gt;
 
-&lt;p&gt;Angue pectora, ve sinusque hos, quam inter
-&lt;a href=&quot;http://pietatissignificant.com/&quot;&gt;letali&lt;/a&gt; parva, Iovis telis Mars! Coeamus
-infringat, cui ipsa, diu novi &lt;a href=&quot;http://www.sentitea.io/usumdecebat&quot;&gt;alto
-caelumque&lt;/a&gt; totidem, tuta deorum modo:
-&lt;strong&gt;falsa herba&lt;/strong&gt; aut! Torusque vera mihi; neve moram alto artus facies laudat.
-Deum vana lectusque notatas mortale ultro vox paludes hunc. Ante flammaeque
-minus Leucothoen: petuntur cepit refert tum aquam, a inclusit accipe conplerunt
-adsumit!&lt;/p&gt;</content><author><name>Albince Paliakkara</name></author><category term="random" /><summary type="html">Hello World</summary></entry></feed>
+&lt;h2 id=&quot;switch-to-google-meet-and-screen-sharing&quot;&gt;Switch to Google Meet and screen sharing&lt;/h2&gt;
+&lt;p&gt;After a few days of starting the remote classes, my dad got the news that the &lt;a href=&quot;https://www.hindustantimes.com/india-news/zoom-app-is-not-safe-for-private-persons-entities-mha/story-eAM93lrayy2N7sK90JgBAK.html&quot;&gt;Zoom is not safe anymore&lt;/a&gt;. As usual I was called in, but this already had an easy solution of switching to Google Meet. IMO this was a very pleasant change for him. He found the google meet to be much more accessible and designed for Chrome browser.&lt;/p&gt;
+
+&lt;p&gt;After a couple of days, I found him sharing the screen and switching between LibreOffice Impress and his PDF notes. I wonder what his students were thinking when they saw the ubuntu desktop and unfamiliar applications. Maybe he is the cool teacher with a fancy desktop for them.&lt;/p&gt;
+
+&lt;h2 id=&quot;video-creation--youtube-channel&quot;&gt;Video creation &amp;amp; Youtube channel&lt;/h2&gt;
+
+&lt;p&gt;&lt;sub&gt;Check out a class created by him. Please note the video is in Malayalam language.&lt;/sub&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ocHTq8nmEVc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;He didn’t even bother me once for the entire video publishing process of this one. He recorded the audio, created the presentation, merged them as a video class, and published it to youtube all by himself. For the first video, I showed him a sample of how to&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Record the audio using &lt;a href=&quot;https://www.audacityteam.org/&quot;&gt;Audacity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Create the presentation using &lt;a href=&quot;https://www.libreoffice.org/discover/impress/&quot;&gt;LibreOffice Impress&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Merge the audio and video using &lt;a href=&quot;https://kdenlive.org/en/&quot;&gt;Kdenlive&lt;/a&gt; and render it to youtube compatible video format&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Later he found out ways to do the re-recording and insert it at specific places where there were mistakes in the initial recording.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-interesting-takaway&quot;&gt;Some interesting takaway&lt;/h2&gt;
+
+&lt;p&gt;My Dad is not a total newbie in the world of computers. He has some previous experience with Windows and a bit of passion for basic programming. But this was his first-hand experience with Linux and the video publishing process. With some things set up and getting basic instruction from me, he was able to get things started. Now he is getting better every day with googling stuff and figuring out things himself.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Linux is totally a daily driver and gets things done for him.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;epilogue&quot;&gt;Epilogue&lt;/h2&gt;
+&lt;p&gt;He just asked me about how IP addresses work in a Wifi network and whether Google will see it as unique users/visits. I guess he is now into SEO optimizations and increasing the reach of his videos/channel&lt;/p&gt;</content><author><name>Albince Paliakkara</name></author><category term="life" /><category term="tech" /><category term="linux" /><summary type="html">TL;DR: My 59-year-old dad teaches online MBA classes, creates youtube videos from his Linux laptop with google meet, libreoffice, audacity and kdenlive</summary></entry></feed>

@@ -4,20 +4,20 @@
     <title> - Articles</title>
     <description>Tech, Life &amp; Everything</description>
     <link>
-    https://albince.com</link>
+    http://localhost:4000</link>
     
       
       <item>
-        <title>Hello World</title>
+        <title>My Dad, Pandemic, Linux and Remote Classes</title>
         
-          <description>&lt;h2 id=&quot;hello-world&quot;&gt;Hello World&lt;/h2&gt;
+          <description>&lt;p&gt;TL;DR: My 59-year-old dad teaches online MBA classes, creates youtube videos from his Linux laptop with google meet, libreoffice, audacity and kdenlive&lt;/p&gt;
 
 </description>
         
-        <pubDate>Tue, 08 Sep 2020 15:30:00 +0530</pubDate>
+        <pubDate>Tue, 01 Dec 2020 01:00:00 +0530</pubDate>
         <link>
-        https://albince.com/welcome</link>
-        <guid isPermaLink="true">https://albince.com/welcome</guid>
+        http://localhost:4000/my-dad-pandemic-remote-classes-linux</link>
+        <guid isPermaLink="true">http://localhost:4000/my-dad-pandemic-remote-classes-linux</guid>
       </item>
       
     
