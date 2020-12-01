@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/author/albince/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-12-01T03:05:33+05:30</updated>
-  <id>http://localhost:4000/author/albince/feed.xml</id>
+  <link href="https://albince.com/author/albince/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://albince.com/" rel="alternate" type="text/html" />
+  <updated>2020-12-01T09:50:30+05:30</updated>
+  <id>https://albince.com/author/albince/feed.xml</id>
 
   
   
@@ -33,29 +33,29 @@
   
     <entry>
       <title type="html">My Dad, Pandemic, Linux and Remote Classes</title>
-      <link href="http://localhost:4000/my-dad-pandemic-remote-classes-linux" rel="alternate" type="text/html" title="My Dad, Pandemic, Linux and Remote Classes" />
+      <link href="https://albince.com/my-dad-pandemic-remote-classes-linux" rel="alternate" type="text/html" title="My Dad, Pandemic, Linux and Remote Classes" />
       <published>2020-12-01T01:00:00+05:30</published>
       <updated>2020-12-01T01:00:00+05:30</updated>
-      <id>http://localhost:4000/my-dad-pandemic-remote-classes-linux</id>
-      <content type="html" xml:base="http://localhost:4000/my-dad-pandemic-remote-classes-linux">&lt;p&gt;TL;DR: My 59-year-old dad teaches online MBA classes, creates youtube videos from his Linux laptop with google meet, libreoffice, audacity and kdenlive&lt;/p&gt;
+      <id>https://albince.com/my-dad-pandemic-remote-classes-linux</id>
+      <content type="html" xml:base="https://albince.com/my-dad-pandemic-remote-classes-linux">&lt;p&gt;TL;DR: My 59-year-old dad teaches online MBA classes, creates youtube videos from his Linux laptop with google meet, libreoffice, audacity and kdenlive&lt;/p&gt;
 
 &lt;h2 id=&quot;covid-19-pushes-the-limits&quot;&gt;COVID-19 Pushes the limits&lt;/h2&gt;
 
 &lt;p&gt;The pandemic has changed many things for my Dad. He is 59 years old and teaches MBA students.
 With the COVID-19 restrictions, he was forced to do his teaching lessons online. Being the tech enthusiast in the house, I was called in as the consultant.&lt;/p&gt;
 
-&lt;p&gt;He had already been complaining that his Windows laptop is very slow and there may be a virus in it. So I did what every Linux evangelist do. Wiped his laptop, and made a clean Ubuntu install. With the chrome starting up and his old videos playing through VLC player he nodded OK, but was not happy.&lt;/p&gt;
+&lt;p&gt;He had already been complaining that his Windows laptop is very slow and there may be a virus in it. So I did what every Linux evangelist does. Wiped his laptop, and made a clean Ubuntu install. With the chrome starting up and his old videos playing through VLC player he nodded OK, but was not happy.&lt;/p&gt;
 
 &lt;p&gt;With another couple of clicks, a Zoom meeting was running and he could send the join invite to my brother for checking voice, video, and screen sharing capabilities. With a couple of “Hello, testing” exchanges he was happy and started his remote classes the next day.&lt;/p&gt;
 
 &lt;h2 id=&quot;switch-to-google-meet-and-screen-sharing&quot;&gt;Switch to Google Meet and screen sharing&lt;/h2&gt;
-&lt;p&gt;After a few days of starting the remote classes, my dad got the news that the &lt;a href=&quot;https://www.hindustantimes.com/india-news/zoom-app-is-not-safe-for-private-persons-entities-mha/story-eAM93lrayy2N7sK90JgBAK.html&quot;&gt;Zoom is not safe anymore&lt;/a&gt;. As usual I was called in, but this already had an easy solution of switching to Google Meet. IMO this was a very pleasant change for him. He found the google meet to be much more accessible and designed for Chrome browser.&lt;/p&gt;
+&lt;p&gt;After a few days of starting the remote classes, my dad got the news that the &lt;a href=&quot;https://www.hindustantimes.com/india-news/zoom-app-is-not-safe-for-private-persons-entities-mha/story-eAM93lrayy2N7sK90JgBAK.html&quot;&gt;Zoom is not safe anymore&lt;/a&gt;. As usual, I was called in, but this already had an easy solution of switching to Google Meet. IMO this was a very pleasant change for him. He found the google meet to be much more accessible and designed for Chrome browser.&lt;/p&gt;
 
 &lt;p&gt;After a couple of days, I found him sharing the screen and switching between LibreOffice Impress and his PDF notes. I wonder what his students were thinking when they saw the ubuntu desktop and unfamiliar applications. Maybe he is the cool teacher with a fancy desktop for them.&lt;/p&gt;
 
 &lt;h2 id=&quot;video-creation--youtube-channel&quot;&gt;Video creation &amp;amp; Youtube channel&lt;/h2&gt;
 
-&lt;p&gt;&lt;sub&gt;Check out a class created by him. Please note the video is in Malayalam language.&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;sub&gt;Check out a class created by him. Please note the video is in the Malayalam language.&lt;/sub&gt;&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ocHTq8nmEVc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -68,14 +68,14 @@ With the COVID-19 restrictions, he was forced to do his teaching lessons online.
 
 &lt;p&gt;Later he found out ways to do the re-recording and insert it at specific places where there were mistakes in the initial recording.&lt;/p&gt;
 
-&lt;h2 id=&quot;some-interesting-takaway&quot;&gt;Some interesting takaway&lt;/h2&gt;
+&lt;h2 id=&quot;some-interesting-takeaways&quot;&gt;Some interesting takeaways&lt;/h2&gt;
 
 &lt;p&gt;My Dad is not a total newbie in the world of computers. He has some previous experience with Windows and a bit of passion for basic programming. But this was his first-hand experience with Linux and the video publishing process. With some things set up and getting basic instruction from me, he was able to get things started. Now he is getting better every day with googling stuff and figuring out things himself.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Linux is totally a daily driver and gets things done for him.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Linux is a daily driver and gets things done for him.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;epilogue&quot;&gt;Epilogue&lt;/h2&gt;
-&lt;p&gt;He just asked me about how IP addresses work in a Wifi network and whether Google will see it as unique users/visits. I guess he is now into SEO optimizations and increasing the reach of his videos/channel&lt;/p&gt;</content>
+&lt;p&gt;He just asked me about how IP addresses work in a Wi-Fi network and whether Google will see them as unique users/visits. I guess he is now into SEO optimizations and increasing the reach of his videos/channel&lt;/p&gt;</content>
 
       
       
