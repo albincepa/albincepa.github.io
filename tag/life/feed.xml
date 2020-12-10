@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://albince.com/tag/life/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://albince.com/" rel="alternate" type="text/html" />
-  <updated>2020-12-01T09:50:30+05:30</updated>
+  <updated>2020-12-11T02:50:17+05:30</updated>
   <id>https://albince.com/tag/life/feed.xml</id>
 
   
@@ -37,7 +37,7 @@
       <published>2020-12-01T01:00:00+05:30</published>
       <updated>2020-12-01T01:00:00+05:30</updated>
       <id>https://albince.com/my-dad-pandemic-remote-classes-linux</id>
-      <content type="html" xml:base="https://albince.com/my-dad-pandemic-remote-classes-linux">&lt;p&gt;TL;DR: My 59-year-old dad teaches online MBA classes, creates youtube videos from his Linux laptop with google meet, libreoffice, audacity and kdenlive&lt;/p&gt;
+      <content type="html" xml:base="https://albince.com/my-dad-pandemic-remote-classes-linux">&lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt; My 59-year-old dad teaches online MBA classes, creates youtube videos from his Linux laptop with google meet, libreoffice, audacity and kdenlive&lt;/p&gt;
 
 &lt;h2 id=&quot;covid-19-pushes-the-limits&quot;&gt;COVID-19 Pushes the limits&lt;/h2&gt;
 
@@ -49,7 +49,7 @@ With the COVID-19 restrictions, he was forced to do his teaching lessons online.
 &lt;p&gt;With another couple of clicks, a Zoom meeting was running and he could send the join invite to my brother for checking voice, video, and screen sharing capabilities. With a couple of “Hello, testing” exchanges he was happy and started his remote classes the next day.&lt;/p&gt;
 
 &lt;h2 id=&quot;switch-to-google-meet-and-screen-sharing&quot;&gt;Switch to Google Meet and screen sharing&lt;/h2&gt;
-&lt;p&gt;After a few days of starting the remote classes, my dad got the news that the &lt;a href=&quot;https://www.hindustantimes.com/india-news/zoom-app-is-not-safe-for-private-persons-entities-mha/story-eAM93lrayy2N7sK90JgBAK.html&quot;&gt;Zoom is not safe anymore&lt;/a&gt;. As usual, I was called in, but this already had an easy solution of switching to Google Meet. IMO this was a very pleasant change for him. He found the google meet to be much more accessible and designed for Chrome browser.&lt;/p&gt;
+&lt;p&gt;After a few days of starting the remote classes, my dad got the news that the &lt;a href=&quot;https://www.hindustantimes.com/india-news/zoom-app-is-not-safe-for-private-persons-entities-mha/story-eAM93lrayy2N7sK90JgBAK.html&quot; target=&quot;_blank&quot;&gt;Zoom is not safe anymore&lt;/a&gt;. As usual, I was called in, but this already had an easy solution of switching to Google Meet. IMO this was a very pleasant change for him. He found the google meet to be much more accessible and designed for Chrome browser.&lt;/p&gt;
 
 &lt;p&gt;After a couple of days, I found him sharing the screen and switching between LibreOffice Impress and his PDF notes. I wonder what his students were thinking when they saw the ubuntu desktop and unfamiliar applications. Maybe he is the cool teacher with a fancy desktop for them.&lt;/p&gt;
 

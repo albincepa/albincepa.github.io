@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://albince.com/author/albince/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://albince.com/" rel="alternate" type="text/html" />
-  <updated>2020-12-01T09:50:30+05:30</updated>
+  <updated>2020-12-11T02:50:17+05:30</updated>
   <id>https://albince.com/author/albince/feed.xml</id>
 
   
@@ -32,12 +32,93 @@
 
   
     <entry>
+      <title type="html">Why Your Releases Needs to be Rolling &amp;amp; Boring?</title>
+      <link href="https://albince.com/rolling-boring-release" rel="alternate" type="text/html" title="Why Your Releases Needs to be Rolling &amp; Boring?" />
+      <published>2020-12-11T01:00:00+05:30</published>
+      <updated>2020-12-11T01:00:00+05:30</updated>
+      <id>https://albince.com/rolling-boring-release</id>
+      <content type="html" xml:base="https://albince.com/rolling-boring-release">&lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt; Add features incrementally to production. Make Releases a routine task so that it becomes boring.&lt;/p&gt;
+
+&lt;p&gt;Are you excited about your next release?&lt;/p&gt;
+
+&lt;p&gt;Do you have &lt;strong&gt;No deploy Fridays&lt;/strong&gt;? Are you waiting for the client’s business closing hours for production deployment?&lt;/p&gt;
+
+&lt;p&gt;If something is keeping you on your toes for the next production release, you need to improve.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;keep-the-code-rolling&quot;&gt;Keep the Code Rolling&lt;/h2&gt;
+
+&lt;p&gt;The aim is to get the code to be on production deployment as soon as possible. &lt;a href=&quot;https://en.wikipedia.org/wiki/Lead_time&quot; target=&quot;_blank&quot;&gt;Time to production&lt;/a&gt; should be minimised at all cost.&lt;/p&gt;
+
+&lt;p&gt;The agile method advocates keeping the tasks atomic. For this to work, the &lt;strong&gt;Definition of Done&lt;/strong&gt; should be clearly stated for each task.&lt;/p&gt;
+
+&lt;p&gt;If something is marked as done after the different phases of &lt;strong&gt;Automated testing, QA verification and Product Owner’s approval&lt;/strong&gt;, why should it be further delayed to production.&lt;/p&gt;
+
+&lt;p&gt;Something that shouldn’t be accessible to the end user, can be hidden using &lt;a href=&quot;https://devops.com/5-best-practices-for-feature-flagging/&quot; target=&quot;_blank&quot;&gt;Feature Flags&lt;/a&gt;. With the page/component behind the feature flag, you get to test your task while on production. This task can be further re-iterated by issuing subsequent tasks.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/stephen-radford-hLUTRzcVkqg-unsplash.jpg&quot; alt=&quot;Thing on Fire&quot; title=&quot;A cute kitten&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;minimise-the-risk-and-blast-radius&quot;&gt;Minimise the Risk and Blast Radius&lt;/h2&gt;
+&lt;p&gt;Things may and will go wrong sometimes. This is applicable even if your release is occurring every Month/Quater/Year. But with incremental changes being delivered, the Definition of Done should include the steps required in case things go sideways.&lt;/p&gt;
+
+&lt;p&gt;This may include&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Automated Database Snapshots before deployment&lt;/li&gt;
+  &lt;li&gt;Rollback scripts in case of a destructive upgrade&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vwo.com/ab-testing/&quot; target=&quot;_blank&quot;&gt;A/B testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#strategy&quot; target=&quot;_blank&quot;&gt;Different update strategy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/edan-cohen-iSIiW--ACDs-unsplash.jpg&quot; alt=&quot;Calm Cat in Bed&quot; title=&quot;A cute kitten&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;boring-deployments&quot;&gt;Boring Deployments&lt;/h2&gt;
+
+&lt;p&gt;Keep the deployments as boring as you can. The chimes in Teams/Slack during the production release/deployment needs to be minimal.&lt;/p&gt;
+
+&lt;p&gt;Having a nightly job for production release may be a bit ambitious(Or is it &lt;strong&gt;:P&lt;/strong&gt;). But with a click of a button, the continuous deployment tool should deploy the new release to the production environment.&lt;/p&gt;
+
+&lt;p&gt;To ensure a sound release, you can check the current status and analytics using tools like &lt;a href=&quot;https://grafana.com/&quot; target=&quot;_blank&quot;&gt;Grafana&lt;/a&gt;. Also having a fine-tuned alert system, like &lt;a href=&quot;https://prometheus.io/&quot; target=&quot;_blank&quot;&gt;Prometheus&lt;/a&gt; is encouraged.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keep Calm and Enjoy Life&lt;/strong&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Albince Paliakkara</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tech" />
+      
+
+      
+        <summary type="html">TL;DR: Add features incrementally to production. Make Releases a routine task so that it becomes boring.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">My Dad, Pandemic, Linux and Remote Classes</title>
       <link href="https://albince.com/my-dad-pandemic-remote-classes-linux" rel="alternate" type="text/html" title="My Dad, Pandemic, Linux and Remote Classes" />
       <published>2020-12-01T01:00:00+05:30</published>
       <updated>2020-12-01T01:00:00+05:30</updated>
       <id>https://albince.com/my-dad-pandemic-remote-classes-linux</id>
-      <content type="html" xml:base="https://albince.com/my-dad-pandemic-remote-classes-linux">&lt;p&gt;TL;DR: My 59-year-old dad teaches online MBA classes, creates youtube videos from his Linux laptop with google meet, libreoffice, audacity and kdenlive&lt;/p&gt;
+      <content type="html" xml:base="https://albince.com/my-dad-pandemic-remote-classes-linux">&lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt; My 59-year-old dad teaches online MBA classes, creates youtube videos from his Linux laptop with google meet, libreoffice, audacity and kdenlive&lt;/p&gt;
 
 &lt;h2 id=&quot;covid-19-pushes-the-limits&quot;&gt;COVID-19 Pushes the limits&lt;/h2&gt;
 
@@ -49,7 +130,7 @@ With the COVID-19 restrictions, he was forced to do his teaching lessons online.
 &lt;p&gt;With another couple of clicks, a Zoom meeting was running and he could send the join invite to my brother for checking voice, video, and screen sharing capabilities. With a couple of “Hello, testing” exchanges he was happy and started his remote classes the next day.&lt;/p&gt;
 
 &lt;h2 id=&quot;switch-to-google-meet-and-screen-sharing&quot;&gt;Switch to Google Meet and screen sharing&lt;/h2&gt;
-&lt;p&gt;After a few days of starting the remote classes, my dad got the news that the &lt;a href=&quot;https://www.hindustantimes.com/india-news/zoom-app-is-not-safe-for-private-persons-entities-mha/story-eAM93lrayy2N7sK90JgBAK.html&quot;&gt;Zoom is not safe anymore&lt;/a&gt;. As usual, I was called in, but this already had an easy solution of switching to Google Meet. IMO this was a very pleasant change for him. He found the google meet to be much more accessible and designed for Chrome browser.&lt;/p&gt;
+&lt;p&gt;After a few days of starting the remote classes, my dad got the news that the &lt;a href=&quot;https://www.hindustantimes.com/india-news/zoom-app-is-not-safe-for-private-persons-entities-mha/story-eAM93lrayy2N7sK90JgBAK.html&quot; target=&quot;_blank&quot;&gt;Zoom is not safe anymore&lt;/a&gt;. As usual, I was called in, but this already had an easy solution of switching to Google Meet. IMO this was a very pleasant change for him. He found the google meet to be much more accessible and designed for Chrome browser.&lt;/p&gt;
 
 &lt;p&gt;After a couple of days, I found him sharing the screen and switching between LibreOffice Impress and his PDF notes. I wonder what his students were thinking when they saw the ubuntu desktop and unfamiliar applications. Maybe he is the cool teacher with a fancy desktop for them.&lt;/p&gt;
 
